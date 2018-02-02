@@ -1,0 +1,20 @@
+{
+    "items": [
+              {
+              "uuid": "bef89c66-2318-46bb-b142-41f88ddf532f", "imageUrlString":
+              "https://vignette1.wikia.nocookie.net/disney/images/f/f6/MickeyArt.jpg"
+              },
+              {
+              "uuid": "2813a61c-3d5e-409b-bece-7c67b60bb5a0", "imageUrlString":
+              "http://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png"
+              },
+              {
+              "uuid": "9d3e9bff-1833-4b49-82cc-7847a935d4ec", "imageUrlString":
+              "https://static.pexels.com/photos/209004/pexels-photo-209004.jpeg"
+              },
+              {
+              "uuid": "588e2c7f-40de-4c4d-ac74-2884daf5ecc8", "imageUrlString":
+              "https://vignette2.wikia.nocookie.net/simpsons/images/1/11/Homersimpson.jpg"
+              },
+              ]
+}
