@@ -1,4 +1,4 @@
-# CollectionLayout-Reordering-CustomLayout 
+# CollectionView-Reordering-CustomLayout 
 
 ## Supporting iOS 9.0+ version
 
